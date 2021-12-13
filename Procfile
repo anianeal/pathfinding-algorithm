@@ -1,0 +1,1 @@
+web: gunicorn pathfinding_visualiztion_python:app --log-file -
